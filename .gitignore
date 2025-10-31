@@ -1,6 +1,3 @@
-# https://git-scm.com/docs/gitignore
-# htps://help.github.com/en/articles/ignoring-files
-# Exemple .gitignore files: https://github.comn/github/gitignore
-
+# Canvi
 
 /.env.development
